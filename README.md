@@ -1,2 +1,2 @@
 # snailtales
-Quick inof on slow buddies
+Quick info on slow buddies
